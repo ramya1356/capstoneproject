@@ -1,0 +1,18 @@
+ERROR:root:[Errno 2] No such file or directory: 'sssss.txt'
+Traceback (most recent call last):
+  File "C:\CAPSTONE PROJECT\Level5\loggin.py", line 8, in find
+    f=open("sssss.txt","r")
+      ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'sssss.txt'
+ERROR:root:[Errno 2] No such file or directory: 'r1.txt'
+Traceback (most recent call last):
+  File "C:\CAPSTONE PROJECT\Level5\loggin.py", line 8, in find
+    f=open("r1.txt","r")
+      ^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'r1.txt'
+ERROR:root:[Errno 2] No such file or directory: 'r1.txt'
+Traceback (most recent call last):
+  File "C:\CAPSTONE PROJECT\Level5\loggin.py", line 8, in find
+    f=open("r1.txt","r")
+      ^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'r1.txt'

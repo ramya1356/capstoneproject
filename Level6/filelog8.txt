@@ -1,0 +1,9 @@
+INFO:root:c:\\capstone\sa1.txt
+INFO:root:c:\\capstone\one.txt
+INFO:root:c://capstone\hhh.txt
+INFO:root:c://capstone\abc.txt
+INFO:root:None
+INFO:root:None
+INFO:root:c://capstone\def.txt
+INFO:root:c://capstone\fgh.txt
+INFO:root:c://capstone\xyz.txt

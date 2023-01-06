@@ -1,0 +1,2 @@
+INFO:root:None
+INFO:root:c://capstone\hcl_program1.txt
